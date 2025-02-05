@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ARP Digital - Choose Your Interest</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f8f9fa;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        .option {
+            display: block;
+            margin: 10px 0;
+            padding: 15px;
+            background: #007bff;
+            color: white;
+            text-decoration: none;
+            font-size: 18px;
+            border-radius: 5px;
+            transition: 0.3s;
+        }
+        .option:hover {
+            background: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to ARP Digital</h1>
+        <p>Select the service you're interested in:</p>
+        
+        <a href="https://wa.me/971567482707" class="option">ARP Pay (WhatsApp)</a>
+        <a href="mailto:szaim@arpdigital.io?subject=ARP%20Pay%20Inquiry" class="option">ARP Pay (Email)</a>
+        
+        <a href="https://wa.me/97335091699" class="option">OTC Trading (WhatsApp)</a>
+        <a href="mailto:sayedali@arpdigital.io?subject=OTC%20Trading%20Inquiry" class="option">OTC Trading (Email)</a>
+        
+        <a href="https://wa.me/971585646830" class="option">Wealth Management & Structured Products (WhatsApp)</a>
+        <a href="mailto:udepaoli@arpdigital.io?subject=Wealth%20Management%20or%20Structured%20Products%20Inquiry" class="option">Wealth Management & Structured Products (Email)</a>
+        
+        <h2>Partnerships</h2>
+        <p>Interested in partnering with ARP Digital? Contact us:</p>
+        <a href="https://wa.me/971567482707" class="option">Partnerships (WhatsApp)</a>
+        <a href="mailto:szaim@arpdigital.io?subject=Partnership%20Inquiry" class="option">Partnerships (Email)</a>
+    </div>
+</body>
+</html>
